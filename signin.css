@@ -1,0 +1,31 @@
+body{ width: 100%; background-color: rgb(15, 11, 2);}
+fieldset{ width: 400px; height: 470px ;border-radius: 10px; margin-left:30%; margin-top: 4%; background-color:#fdf9f9; border: none;} 
+
+.firstdiv{ width:100%; height: 25px ; margin-top: 30px;;}
+
+.ful{ list-style-type: none;margin-left: 30%;}
+#fulli{ float: left;  font-size: 25px;}
+
+.seconddiv{height: 10px; width: 100%;margin-left:40%}
+#secdiv{ ; font-size: 23px;}
+.thirddiv{ width: 100%;; }
+#thir{ margin-left: 25%; font-size: 17px; ;}
+.fourthdiv{ width: 100%; margin-top: 35px; height: 33px;}
+#fourdiv{ float: left; width: 350px;height: 45px; margin-left: 25px; margin-right: 25px ;border-radius: 3%; ; ;}
+.fifthdiv{ width: 100%; margin-top: 25px; height: 50px}
+#forgotmail{ text-decoration: none; margin-left: 25px; color: #2077e9;
+font-size: 17px;;}
+.sixthdiv{ width: 100%;;}
+#psixth{ margin-left: 25px; height: 50px;}
+#learn{ text-decoration: none; font-family: tahoma; font-weight: bold; font-size: 15px; color:#2077e9}
+.seventhdiv{ width: 100%; }
+
+#create{ margin-left: 25px; text-decoration: none; color: #2077e9; font-size: 17px;}
+button{ background-color: #2077e9; width: 80px; height: 35px; border: none; border-radius: 7%; margin-left: 150px ;}
+
+
+#next{ text-decoration: none; color: #ffffff; padding-left: 5px;padding-right: 5px; font-size:15px;}
+
+.Eightdiv{ width: 32%;margin-top: 35px; background-color: rgb(128, 126, 126); height: 30px; margin-left: 410px;  margin-right: 350px; }
+.eightdivsub{ margin-left: 230px; margin-top: 0px;}
+
